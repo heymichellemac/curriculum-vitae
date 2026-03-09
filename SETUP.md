@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-Your CV is ready! Here's how to view and deploy it:
+Your CV is ready. Here's how to view and deploy it:
 
 ### 1. View Locally
 
