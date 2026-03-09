@@ -1,0 +1,138 @@
+# Michelle McCausland - Curriculum Vitae
+personal:
+  name: "Michelle McCausland"
+  title: "Senior Technical Writer"
+  location: "Waterford, Ireland"
+  email: "heymichellemac@gmail.com"
+  website: "https://heymichellemac.com"
+  linkedin: "https://www.linkedin.com/in/michellemccausland/"
+  github: "https://github.com/heymichellemac"
+
+summary: |
+  Senior technical writer with over 11 years of professional experience in creating user-centered documentation and building websites with a design mindset. Recognized for leading AI-enhanced documentation innovation and achieving measurable improvements in documentation quality and team efficiency. Passionate about combining technical expertise with creative problem-solving to deliver impactful content.
+
+specialities:
+  - "Technical Writing"
+  - "Documentation Automation"
+  - "AI-Enhanced Workflows"
+  - "Content Strategy"
+  - "UX Design"
+
+experience:
+  - company: "Red Hat"
+    role: "Senior Technical Writer"
+    location: "Remote, Ireland"
+    start_date: "Aug 2023"
+    end_date: "Present"
+    description:
+      - "Developed and maintained technical documentation (user guides, release notes, troubleshooting guides, deployment models) for Ansible Automation Platform, ensuring adherence to Red Hat style guides and timely delivery within agile sprints."
+      - "Pioneered AI-enhanced documentation workflows using Claude Code CLI and Cursor to improve efficiency in peer reviews, content mapping, and systematic quality improvements."
+      - "Collaborated extensively with Engineering, Architecture, Support, and UX teams to gather technical insights, validate content, and advocate for customer documentation needs throughout product development lifecycle."
+      - "Enhanced release notes generation workflow by developing Python automation scripts, improving team efficiency and documentation quality."
+      - "Independently solved complex technical challenges by building hands-on expertise (setting up local environments, analyzing codebases) to improve content reliability and accuracy for external database configuration and containerized installations."
+      - "Mentored junior team members and contributed to open source projects (Vale, documentation tooling), fostering team development and efficiency."
+      - "Recognized with 'Rookie of the Quarter' award for strong performance and contributions to team initiatives."
+
+  - company: "Errigal Inc."
+    role: "Technical Writer & Content Creator"
+    location: "Ireland"
+    start_date: "Mar 2022"
+    end_date: "Jun 2023"
+    description:
+      - "Created and maintained technical documentation including user guides, release notes, and internal guides in line with development sprint cycle."
+      - "Wrote documentation in purpose-built project using Markdown, Pandoc, Python. Managed in Bitbucket (Git)."
+      - "Deployed technical documentation during software releases using Jenkins."
+      - "Collaborated with developers, ops team, test team to produce over 20 user guides that enabled users to carry out their work and reduce volume of support tickets generated."
+      - "Worked on front-end development of Angular applications for over a year."
+      - "Developed design wireframes and mockups in Figma and performed usability reviews of applications in each sprint."
+
+  - company: "Errigal Inc."
+    role: "Business Support"
+    location: "Ireland"
+    start_date: "Apr 2018"
+    end_date: "Mar 2022"
+    description:
+      - "Improved existing technical documentation, standardized customer release notes, and created custom release flyers based on release notes."
+      - "Worked on migration of all technical documentation from Microsoft Word to custom-built project using Markdown, Python, and Pandoc."
+      - "Standardized the usability design process and advocated for minimum quota of UI/UX-related tickets per sprint. Managed these tickets in Jira."
+      - "Performed regular usability reviews and offered proposed design solutions through wireframes and mockups created in Figma."
+      - "Established suite of training videos for newly onboarded employees using Premier Pro."
+
+  - company: "Errigal Inc."
+    role: "Technical Support Coordinator"
+    location: "Ireland"
+    start_date: "Dec 2014"
+    end_date: "Mar 2018"
+    description:
+      - "Established the technical documentation process. This involved creating a suite of user guides and release notes in Microsoft Word based on my experience working in operations."
+      - "Developed the operations team while streamlining the support process using Jira, Microsoft Excel, and internal ticketing application to manage support queues and organize projects."
+      - "Led daily stand-ups and created weekly reports using Jira and internal reporting application to track success."
+      - "Assisted customers with technical operations issues via phone, email, and video calls."
+
+volunteer:
+  - organization: "Wexford SPCA"
+    role: "Web Developer"
+    start_date: "Jan 2023"
+    end_date: "Mar 2023"
+    description:
+      - "Developed website to promote animal welfare and assist with pet rehoming"
+      - "Designed user-friendly interface to showcase animals available for adoption"
+
+  - organization: "Waterford SPCA"
+    role: "Web Developer"
+    start_date: "May 2022"
+    end_date: "Oct 2022"
+    description:
+      - "Designed and built a new WordPress website for Waterford SPCA"
+      - "Helped spread awareness about animal welfare in the local community"
+
+education:
+  - institution: "Waterford Institute of Technology"
+    degree: "MSC Computing (Communication Software)"
+    location: "Waterford, Ireland"
+    start_date: "2016"
+    end_date: "2017"
+    details: "Completed 2 part-time modules - Enterprise Web Development; User Experience & Design."
+
+  - institution: "Waterford Institute of Technology"
+    degree: "BSC Multimedia Applications Development"
+    location: "Waterford, Ireland"
+    start_date: "2010"
+    end_date: "2013"
+    details: "Course completed with distinction."
+
+certifications:
+  - name: "Career Essentials in Generative AI by Microsoft and LinkedIn"
+    issuer: "Microsoft & LinkedIn"
+    date: "Feb 2025"
+
+  - name: "Career Essentials in Generative AI by Microsoft and LinkedIn"
+    issuer: "Microsoft & LinkedIn"
+    date: "May 2024"
+
+tools_technologies:
+  - "Adobe CS"
+  - "AsciiDoc"
+  - "Ansible"
+  - "Claude Code"
+  - "Cursor"
+  - "DITA"
+  - "Eleventy"
+  - "Figma"
+  - "Git"
+  - "HTML"
+  - "Jekyll"
+  - "Jenkins"
+  - "Jira"
+  - "JavaScript"
+  - "Markdown"
+  - "Miro"
+  - "mySQL"
+  - "Netlify"
+  - "Obsidian"
+  - "Pandoc"
+  - "Python"
+  - "Tailwind CSS"
+  - "Vale"
+  - "Visual Studio Code"
+  - "WordPress"
